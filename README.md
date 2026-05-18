@@ -1,2 +1,1 @@
-# debugfr.github.io
-a
+owned by asstra
